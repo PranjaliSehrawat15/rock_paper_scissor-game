@@ -22,4 +22,4 @@ Play the game here: [Rock Paper Scissors Game](https://golden-kheer-6ed87c.netli
 2. Click on Rock, Paper, or Scissors.  
 3. The computer makes its choice automatically.  
 4. The result (Win/Loss/Draw) is displayed on the screen.  
-5. Click "Play Again" to start a new round.  
+5. Click "Play Again" to start a new round.
